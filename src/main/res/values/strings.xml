@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Moive Buff</string>
+    <string name="img_content_desc">MOVIE POSTER</string>
+    <string name="title_row_data">title</string>
+    <string name="title_small_row_data">Title</string>
+    <string name="smaple_rating">1</string>
+</resources>
